@@ -16,7 +16,7 @@ npm install
 run :
 
 ```
-USER_NAME=xxx PASSWORD=xxx  npm star
+USER_NAME=xxx PASSWORD=xxx npm star
 ```
 
 run debug: 
